@@ -50,7 +50,7 @@ A voice-enabled healthcare chatbot that uses machine learning to understand user
 
 ## Model Training
 
-- Use `training.ipynb` and `model.ipynb` to train and evaluate the chatbot model.
+- Use `training.ipynb` or `model.ipynb` to train and evaluate the chatbot model.
 - Intents and responses are defined in `intents.json`.
 
 ## Model Training Notebooks
@@ -72,11 +72,3 @@ Both notebooks use the same dataset and intent structure, but follow different p
 - If audio output does not work, restart the notebook kernel and run only the relevant cells.
 - Ensure your microphone and speakers are configured correctly in Windows.
 - For issues with dependencies, check your Python environment and reinstall packages as needed.
-
-## License
-
-This project is for educational purposes.
-
-## Author
-
-Ankit Regmi
