@@ -1,0 +1,8 @@
+# Ignore model and vectorizer files
+chatbot_model.keras
+vectorizer.joblib
+label_encoder.joblib
+# Ignore Python cache
+__pycache__/
+# Ignore notebook checkpoints
+*.ipynb_checkpoints/
